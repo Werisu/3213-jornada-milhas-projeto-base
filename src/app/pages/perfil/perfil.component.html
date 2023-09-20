@@ -1,2 +1,11 @@
-<app-banner src="assets/imagens/banner-perfil.png" alt="Banner da tela de Perfil"></app-banner>
-<app-form-base [perfilComponent]="perfilComponent" [titulo]="titulo" [textoBotao]="textoBotao" (sair)="deslogar()" (acaoClique)="atualizar()"></app-form-base>
+<app-banner
+  src="assets/imagens/banner-perfil.png"
+  alt="Banner da tela de Perfil"
+></app-banner>
+<app-form-base
+  [perfilComponent]="perfilComponent"
+  [titulo]="titulo + nome"
+  [textoBotao]="textoBotao"
+  (sair)="deslogar()"
+  (acaoClique)="atualizar()"
+></app-form-base>
