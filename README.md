@@ -15,6 +15,16 @@ Nesse primeiro momento, nós temos a página que foi idealizada como a primeiro 
 Durante o curso, nós vamos desenvolver o controle do formulário de busca. 
 O desafio é criar um componente que é controlado por um FormControl e centralizar o controle de estado do formulário de busca, onde temos parte dentro do formulário e parte dentro da modal.
 
+### Funcionalidades Implementadas
+- `Tela de login.`
+- `Tela de cadastro.`
+- `Edição de perfil utilizando componentes reutilizáveis.`
+- `Implementação de boas práticas com o uso de Interceptor e Guarda de Rota do Angular.`
+- `Manipulação de tokens e autenticação via JWT.`
+
+
+E muito mais!
+
 O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/SI696t31Q9zlsXKttCoqKP/Angular%3A-Componentização-e-Design-com-Angular-Material-%7C-Jornada-Milhas?type=design&node-id=4-6408&mode=design&t=mmbAh5QEafSRIGqQ-0).
 
 ## ✔️ Técnicas e tecnologias utilizadas
@@ -25,6 +35,8 @@ Se liga nessa lista de tudo que usaremos nesse curso:
 - `Angular CLI`
 - `Angular Material`
 - `Figma`
+- `JWT para autenticação`
+- `Interceptor e Guarda de Rota do Angular`
 
 E muito mais!
 
